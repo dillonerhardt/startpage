@@ -10,6 +10,11 @@ export default [
     icon: "/icons/protonmail.jpeg",
   },
   {
+    name: "Outlook",
+    url: "https://outlook.office365.com/mail/",
+    icon: "/icons/outlook.png",
+  },
+  {
     name: "Reddit",
     url: "https://www.reddit.com/",
     icon: "/icons/reddit.png",

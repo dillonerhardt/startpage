@@ -10,7 +10,7 @@ const Home = () => (
   <div>
     <h1>Hi, Dillon</h1>
     <SearchBar />
-    <List title="Social" items={socialLinks} />
+    <List title="Communication / Social" items={socialLinks} />
     <List title="Media" items={mediaLinks} />
     <List title="Dev-Ops" items={devOpsLinks} />
     <List title="Documentation" items={documentationLinks} />
